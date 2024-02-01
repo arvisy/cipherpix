@@ -1,6 +1,6 @@
 # Cipherpix
 
-An application for securing dan hiding message into images.
+An application for securing and hiding message into images.
 ---
 ## Tech stacks
 - Java
